@@ -1,0 +1,186 @@
+/** Font Families **/
+/** Colors **/
+/** Vertical Rythm **/
+/* line 1, ../sass/wide/_grid.scss */
+.container {
+  width: 1200px;
+}
+
+/* Nested Column Classes */
+/* line 3, ../sass/wide/_grid.scss */
+.column.alpha, .columns.alpha {
+  margin-left: 0;
+}
+
+/* line 4, ../sass/wide/_grid.scss */
+.column.omega, .columns.omega {
+  margin-right: 0;
+}
+
+/* Base Grid */
+/* line 8, ../sass/wide/_grid.scss */
+.container .one.column,
+.container .one.columns {
+  width: 55px;
+}
+
+/* line 9, ../sass/wide/_grid.scss */
+.container .two.columns {
+  width: 130px;
+}
+
+/* line 10, ../sass/wide/_grid.scss */
+.container .three.columns {
+  width: 205px;
+}
+
+/* line 11, ../sass/wide/_grid.scss */
+.container .four.columns {
+  width: 280px;
+}
+
+/* line 12, ../sass/wide/_grid.scss */
+.container .five.columns {
+  width: 355px;
+}
+
+/* line 13, ../sass/wide/_grid.scss */
+.container .six.columns {
+  width: 430px;
+}
+
+/* line 14, ../sass/wide/_grid.scss */
+.container .seven.columns {
+  width: 505px;
+}
+
+/* line 15, ../sass/wide/_grid.scss */
+.container .eight.columns {
+  width: 580px;
+}
+
+/* line 16, ../sass/wide/_grid.scss */
+.container .nine.columns {
+  width: 655px;
+}
+
+/* line 17, ../sass/wide/_grid.scss */
+.container .ten.columns {
+  width: 730px;
+}
+
+/* line 18, ../sass/wide/_grid.scss */
+.container .eleven.columns {
+  width: 805px;
+}
+
+/* line 19, ../sass/wide/_grid.scss */
+.container .twelve.columns {
+  width: 880px;
+}
+
+/* line 20, ../sass/wide/_grid.scss */
+.container .thirteen.columns {
+  width: 955px;
+}
+
+/* line 21, ../sass/wide/_grid.scss */
+.container .fourteen.columns {
+  width: 1030px;
+}
+
+/* line 22, ../sass/wide/_grid.scss */
+.container .fifteen.columns {
+  width: 1105px;
+}
+
+/* line 23, ../sass/wide/_grid.scss */
+.container .sixteen.columns {
+  width: 1180px;
+}
+
+/* line 25, ../sass/wide/_grid.scss */
+.container .one-third.column {
+  width: 400px;
+}
+
+/* line 26, ../sass/wide/_grid.scss */
+.container .two-thirds.column {
+  width: 800px;
+}
+
+/* Offsets */
+/* line 29, ../sass/wide/_grid.scss */
+.container .offset-by-one {
+  padding-left: 75px;
+}
+
+/* line 30, ../sass/wide/_grid.scss */
+.container .offset-by-two {
+  padding-left: 150px;
+}
+
+/* line 31, ../sass/wide/_grid.scss */
+.container .offset-by-three {
+  padding-left: 225px;
+}
+
+/* line 32, ../sass/wide/_grid.scss */
+.container .offset-by-four {
+  padding-left: 300px;
+}
+
+/* line 33, ../sass/wide/_grid.scss */
+.container .offset-by-five {
+  padding-left: 375px;
+}
+
+/* line 34, ../sass/wide/_grid.scss */
+.container .offset-by-six {
+  padding-left: 450px;
+}
+
+/* line 35, ../sass/wide/_grid.scss */
+.container .offset-by-seven {
+  padding-left: 525px;
+}
+
+/* line 36, ../sass/wide/_grid.scss */
+.container .offset-by-eight {
+  padding-left: 600px;
+}
+
+/* line 37, ../sass/wide/_grid.scss */
+.container .offset-by-nine {
+  padding-left: 675px;
+}
+
+/* line 38, ../sass/wide/_grid.scss */
+.container .offset-by-ten {
+  padding-left: 750px;
+}
+
+/* line 39, ../sass/wide/_grid.scss */
+.container .offset-by-eleven {
+  padding-left: 825px;
+}
+
+/* line 40, ../sass/wide/_grid.scss */
+.container .offset-by-twelve {
+  padding-left: 900px;
+}
+
+/* line 41, ../sass/wide/_grid.scss */
+.container .offset-by-thirteen {
+  padding-left: 975px;
+}
+
+/* line 42, ../sass/wide/_grid.scss */
+.container .offset-by-fourteen {
+  padding-left: 1050px;
+}
+
+/* line 43, ../sass/wide/_grid.scss */
+.container .offset-by-fifteen {
+  padding-left: 1125px;
+}

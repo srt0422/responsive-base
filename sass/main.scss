@@ -1,0 +1,15 @@
+@import "global";
+@media all and (min-width: 768px) and (min-device-width: 768px), (max-device-width: 959px) and (min-width: 768px) and (orientation:landscape)
+{
+	@import "narrow";
+}
+
+@media all and (min-width: 960px) and (min-device-width: 960px), all and (max-device-width: 1199px) and (min-width: 960px) and (orientation:landscape)
+{
+	@import "normal";
+}
+
+@media all and (min-width: 1200px)
+{
+	@import "wide";
+}

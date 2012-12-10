@@ -1,0 +1,203 @@
+/** Font Families **/
+/** Colors **/
+/** Vertical Rythm **/
+/* line 1, ../sass/normal/_grid.scss */
+.container {
+  position: relative;
+  width: 960px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* line 3, ../sass/normal/_grid.scss */
+.container .column,
+.container .columns {
+  float: left;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* line 4, ../sass/normal/_grid.scss */
+.row {
+  margin-bottom: 20px;
+}
+
+/* Nested Column Classes */
+/* line 7, ../sass/normal/_grid.scss */
+.column.alpha, .columns.alpha {
+  margin-left: 0;
+}
+
+/* line 8, ../sass/normal/_grid.scss */
+.column.omega, .columns.omega {
+  margin-right: 0;
+}
+
+/* Base Grid */
+/* line 12, ../sass/normal/_grid.scss */
+.container .one.column,
+.container .one.columns {
+  width: 40px;
+}
+
+/* line 13, ../sass/normal/_grid.scss */
+.container .two.columns {
+  width: 100px;
+}
+
+/* line 14, ../sass/normal/_grid.scss */
+.container .three.columns {
+  width: 160px;
+}
+
+/* line 15, ../sass/normal/_grid.scss */
+.container .four.columns {
+  width: 220px;
+}
+
+/* line 16, ../sass/normal/_grid.scss */
+.container .five.columns {
+  width: 280px;
+}
+
+/* line 17, ../sass/normal/_grid.scss */
+.container .six.columns {
+  width: 340px;
+}
+
+/* line 18, ../sass/normal/_grid.scss */
+.container .seven.columns {
+  width: 400px;
+}
+
+/* line 19, ../sass/normal/_grid.scss */
+.container .eight.columns {
+  width: 460px;
+}
+
+/* line 20, ../sass/normal/_grid.scss */
+.container .nine.columns {
+  width: 520px;
+}
+
+/* line 21, ../sass/normal/_grid.scss */
+.container .ten.columns {
+  width: 580px;
+}
+
+/* line 22, ../sass/normal/_grid.scss */
+.container .eleven.columns {
+  width: 640px;
+}
+
+/* line 23, ../sass/normal/_grid.scss */
+.container .twelve.columns {
+  width: 700px;
+}
+
+/* line 24, ../sass/normal/_grid.scss */
+.container .thirteen.columns {
+  width: 760px;
+}
+
+/* line 25, ../sass/normal/_grid.scss */
+.container .fourteen.columns {
+  width: 820px;
+}
+
+/* line 26, ../sass/normal/_grid.scss */
+.container .fifteen.columns {
+  width: 880px;
+}
+
+/* line 27, ../sass/normal/_grid.scss */
+.container .sixteen.columns {
+  width: 940px;
+}
+
+/* line 29, ../sass/normal/_grid.scss */
+.container .one-third.column {
+  width: 300px;
+}
+
+/* line 30, ../sass/normal/_grid.scss */
+.container .two-thirds.column {
+  width: 620px;
+}
+
+/* Offsets */
+/* line 33, ../sass/normal/_grid.scss */
+.container .offset-by-one {
+  padding-left: 60px;
+}
+
+/* line 34, ../sass/normal/_grid.scss */
+.container .offset-by-two {
+  padding-left: 120px;
+}
+
+/* line 35, ../sass/normal/_grid.scss */
+.container .offset-by-three {
+  padding-left: 180px;
+}
+
+/* line 36, ../sass/normal/_grid.scss */
+.container .offset-by-four {
+  padding-left: 240px;
+}
+
+/* line 37, ../sass/normal/_grid.scss */
+.container .offset-by-five {
+  padding-left: 300px;
+}
+
+/* line 38, ../sass/normal/_grid.scss */
+.container .offset-by-six {
+  padding-left: 360px;
+}
+
+/* line 39, ../sass/normal/_grid.scss */
+.container .offset-by-seven {
+  padding-left: 420px;
+}
+
+/* line 40, ../sass/normal/_grid.scss */
+.container .offset-by-eight {
+  padding-left: 480px;
+}
+
+/* line 41, ../sass/normal/_grid.scss */
+.container .offset-by-nine {
+  padding-left: 540px;
+}
+
+/* line 42, ../sass/normal/_grid.scss */
+.container .offset-by-ten {
+  padding-left: 600px;
+}
+
+/* line 43, ../sass/normal/_grid.scss */
+.container .offset-by-eleven {
+  padding-left: 660px;
+}
+
+/* line 44, ../sass/normal/_grid.scss */
+.container .offset-by-twelve {
+  padding-left: 720px;
+}
+
+/* line 45, ../sass/normal/_grid.scss */
+.container .offset-by-thirteen {
+  padding-left: 780px;
+}
+
+/* line 46, ../sass/normal/_grid.scss */
+.container .offset-by-fourteen {
+  padding-left: 840px;
+}
+
+/* line 47, ../sass/normal/_grid.scss */
+.container .offset-by-fifteen {
+  padding-left: 900px;
+}
